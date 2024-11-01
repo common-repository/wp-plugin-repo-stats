@@ -1,0 +1,315 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-plugin-repo-stats\n"
+"POT-Creation-Date: 2014-08-14 16:43:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp_plugin_repo_stats.php:49
+msgid "Do not access this file directly."
+msgstr ""
+
+#: wp_plugin_repo_stats.php:95
+msgid "You do not have sufficient permission to access this page"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:100
+msgid "You are running plugin version"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:105
+msgid "Settings"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:106
+msgid "Parameters"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:107 wp_plugin_repo_stats.php:177
+msgid "Support"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:115
+msgid "Plugin Settings"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:117 wp_plugin_repo_stats.php:120
+msgid "Is plugin enabled? Uncheck this to turn it off temporarily."
+msgstr ""
+
+#: wp_plugin_repo_stats.php:117
+msgid "Plugin enabled?"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:122 wp_plugin_repo_stats.php:125
+msgid "Enter your wordpress.org userid."
+msgstr ""
+
+#: wp_plugin_repo_stats.php:122
+msgid "WordPress.org Userid"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:127
+msgid "Check this box to add rel=nofollow to WP plugin repo links."
+msgstr ""
+
+#: wp_plugin_repo_stats.php:127
+msgid "Nofollow plugin link(s)?"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:130
+msgid "Check this box to add rel=\"nofollow\" to WP plugin repo links."
+msgstr ""
+
+#: wp_plugin_repo_stats.php:132 wp_plugin_repo_stats.php:135
+msgid "Check this box to use rounded corner CSS on the table header."
+msgstr ""
+
+#: wp_plugin_repo_stats.php:132
+msgid "Rounded corner CSS?"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:137 wp_plugin_repo_stats.php:140
+msgid "Check this box to show plugin star ratings."
+msgstr ""
+
+#: wp_plugin_repo_stats.php:137
+msgid "Show plugin ratings?"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:142
+msgid "Cache time (seconds)"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:147 wp_plugin_repo_stats.php:155
+msgid "Select the sort order. Default is ascending (by plugin name)."
+msgstr ""
+
+#: wp_plugin_repo_stats.php:147
+msgid "Default sort order"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:157 wp_plugin_repo_stats.php:160
+msgid "Check this box to open links in a new window."
+msgstr ""
+
+#: wp_plugin_repo_stats.php:157
+msgid "Open links in new window?"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:164
+msgid "Plugin Parameters and Default Values"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:169
+msgid "Shortcode and PHP Examples"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:170
+msgid "Shortcode Format:"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:173
+msgid "PHP Format:"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:175
+msgid ""
+"<small>Note: 'show' is false by default; set it to <strong>true</strong> "
+"echo the output, or <strong>false</strong> to return the output to your PHP "
+"code.</small>"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:180
+msgid ""
+"Disclaimer: This plugin is not affiliated with or endorsed by WordPress."
+msgstr ""
+
+#: wp_plugin_repo_stats.php:252 wp_plugin_repo_stats.php:487
+msgid ""
+"plugin is disabled. Either you did not pass a necessary setting to the "
+"plugin, or did not configure a default. Check Settings page."
+msgstr ""
+
+#: wp_plugin_repo_stats.php:393
+msgid "Downloads of "
+msgstr ""
+
+#: wp_plugin_repo_stats.php:396
+msgid " as of "
+msgstr ""
+
+#: wp_plugin_repo_stats.php:410
+msgid "Current Rating: "
+msgstr ""
+
+#: wp_plugin_repo_stats.php:411 wp_plugin_repo_stats.php:470
+msgid " out of 5 stars"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:411 wp_plugin_repo_stats.php:470
+msgid " or rating not available"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:420
+msgid "The number of times my "
+msgstr ""
+
+#: wp_plugin_repo_stats.php:420
+msgid "WordPress"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:420
+msgid "been downloaded according to the official "
+msgstr ""
+
+#: wp_plugin_repo_stats.php:420
+msgid "WordPress Plugins Repository"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:423
+msgid "My WordPress Plugins"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:426
+msgid "Plugin Name"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:426
+msgid "Download Count"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:428
+msgid "Rating"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:510
+msgid "is currently disabled."
+msgstr ""
+
+#: wp_plugin_repo_stats.php:513
+msgid ""
+"No userid entered. If you do not set userid here, you must pass it to the "
+"plugin via shortcode or function call."
+msgstr ""
+
+#: wp_plugin_repo_stats.php:548
+msgid "<a href=\"http://wordpress.org/support/plugin/%s\">Support</a>"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:549 wp_plugin_repo_stats.php:671
+msgid "<a href=\"http://wordpress.org/extend/plugins/%s/\">Documentation</a>"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:550
+msgid "<a href=\"http://wordpress.org/plugins/%s/faq/\">FAQ</a>"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:655
+msgid "<a href=\"options-general.php?page=%s\">Settings</a>"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:669
+msgid "Do you need help with this plugin? Check out the following resources:"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:672
+msgid "<a href=\"http://wordpress.org/plugins/%s/faq/\">FAQ</a><br />"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:673
+msgid ""
+"<a href=\"http://wordpress.org/support/plugin/%s\">Support Forum</a><br />"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:674
+msgid ""
+"<a href=\"http://www.jimmyscode.com/wordpress/%s\">Plugin Homepage / Demo</"
+"a><br />"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:675
+msgid ""
+"<a href=\"http://wordpress.org/extend/plugins/%s/developers/\">Development</"
+"a><br />"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:676
+msgid ""
+"<a href=\"http://wordpress.org/plugins/%s/changelog/\">Changelog</a><br />"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:679
+msgid ""
+"If you like this plugin, please <a href=\"http://wordpress.org/support/view/"
+"plugin-reviews/%s/\">rate it on WordPress.org</a>"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:680
+msgid ""
+" and click the <a href=\"http://wordpress.org/plugins/%s/#compatibility"
+"\">Works</a> button. "
+msgstr ""
+
+#: wp_plugin_repo_stats.php:682
+msgid "Your donations encourage further development and support. "
+msgstr ""
+
+#: wp_plugin_repo_stats.php:691
+msgid "The name of the parameter"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:691
+msgid "Parameter Name"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:692
+msgid "Is this parameter required?"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:692
+msgid "Is Required?"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:693
+msgid "What data type this parameter accepts"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:693
+msgid "Data Type"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:694
+msgid "What, if any, is the default if no value is specified"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:694
+msgid "Default Value"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:708
+msgid "Yes"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:711
+msgid "No"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:720
+msgid "true"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:723
+msgid "false"
+msgstr ""
+
+#: wp_plugin_repo_stats.php:726
+msgid "this value is blank by default"
+msgstr ""

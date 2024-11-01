@@ -1,0 +1,16 @@
+.wpprs{margin:20px}
+.wpprs-rounded-corners{-moz-border-radius:10px;-khtml-border-radius:10px;-webkit-border-radius:10px;border-radius:10px}
+.wpprs-top{background:#efefef;text-align:center;padding:18px}
+.wpprs-top h2{font-size:48px}
+.wpprs-plugincount{font-weight:700}
+.wpprs-body h3{line-height:50px;margin:25px 0}
+.wpprs-table{width:90%}
+.wpprs-table th{text-align:left}
+.wpprs-table td{border-top:1px solid #efefef;border-bottom:1px solid #efefef}
+.wpprs-table .wpprs-evenrow{background:#efefef}
+h3.wp-logo{background:url(../images/wordpress_icon.png) no-repeat top left;padding:0 0 0 50px}
+div.star-holder{position:relative;height:17px;width:92px;background:url(../images/stars.png) repeat-x bottom left}
+div.star-holder .star-rating{background:url(../images/stars.png) repeat-x top left;height:17px;float:left;text-indent:100%;overflow:hidden;white-space:nowrap}
+.wpprs-single-plugin{background:#efefef;width:30%;margin:20px;padding:18px}
+.wpprs-single-dl-count,.wpprs-single-rating{text-align:right}
+.wpprs-single-rating .star-holder{float:right}
